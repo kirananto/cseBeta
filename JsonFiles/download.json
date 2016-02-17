@@ -4,6 +4,7 @@
       "description":"Edc notes module 1",
 	  "author" : "Neethu Gopan",
       "type" : "pdf",
+      "subject" : "oop",
       "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/MODULE%201.pdf"
    }
 ]
