@@ -6,12 +6,33 @@
       "type" : "ppt",
       "subject" : "oop",
       "download":"https://google.com"
+   },{
+      "name":"8085 Architecture",
+      "description":"",
+	  "author" : "Gisha",
+      "type" : "ppt",
+      "subject" : "mps",
+      "download":"https://google.com"
+   },{
+      "name":"Astable Multivibrator",
+      "description":" ",
+	  "author" : "Rinju",
+      "type" : "pdf",
+      "subject" : "scslab",
+      "download":"https://google.com"
+   },{
+      "name":"Profile Template",
+      "description":"Profile Template for Talent Club",
+	  "author" : "Sminu",
+      "type" : "doc",
+      "subject" : "misc",
+      "download":"https://google.com"
    },
    {
-      "name":"Module 1",
-      "description":"Module 1 Presentation ",
-	  "author" : "Neethu Gopan",
-      "type" : "pdf",
+      "name":"RC Amplifier",
+      "description":"",
+	  "author" : "Subeena",
+      "type" : "doc",
       "subject" : "scs",
       "download":"https://google.com"
    }
