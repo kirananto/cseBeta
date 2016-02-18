@@ -1,10 +1,18 @@
 [
    {
-      "name":"EDC Notes Module 1",
-      "description":"Edc notes module 1",
+      "name":"Module 1 PPT",
+      "description":"Module 1 Presentation ",
+	  "author" : "Gopika",
+      "type" : "ppt",
+      "subject" : "oop",
+      "download":"https://google.com"
+   },
+   {
+      "name":"Module 1",
+      "description":"Module 1 Presentation ",
 	  "author" : "Neethu Gopan",
       "type" : "pdf",
-      "subject" : "oop",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/MODULE%201.pdf"
+      "subject" : "scs",
+      "download":"https://google.com"
    }
 ]
