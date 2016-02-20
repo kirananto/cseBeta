@@ -1,13 +1,5 @@
 [
-   {
-      "name":"Module 1 PPT",
-      "description":"Module 1 Presentation ",
-	  "author" : "Gopika",
-      "type" : "ppt",
-      "subject" : "oop",
-      "date" : "Nil",
-      "download":"https://google.com"
-   },{
+  {
       "name":"8085 Architecture",
       "description":"",
 	  "author" : "Gisha",
