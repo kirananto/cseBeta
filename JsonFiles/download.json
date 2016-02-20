@@ -1,36 +1,62 @@
 [
   {
+      "name":"CSI – InApp Award for the best student software project",
+      "description":"It gives us immense pleasure in announcing the national level 5th CSI-InApp Award competition for the best Software Application developed by B.Tech/MCA/MSc(Computer Science) Students in the country.
+
+
+The CSI - InApp Awards was established by Computer Society of India, Trivandrum Chapter with support from InApp Information Technologies (India) Pvt. Ltd., with the intention to recognize and promote students who demonstrate exceptional talent in developing software applications. This is the 5th year and we are inviting student teams from your esteemed institution to participate and showcase their talents before the professional community.
+
+
+The award is juried by veterans from IT industry and hence is an ideal platform for the students to interact and learn from the experts.  The award has a two-stage evaluation and the winners will be presented with awards in an event, during April 2016. The best two student teams will receive a cash prize of Rs 50,000 and Rs 25,000 respectively along with an award plaque.
+
+
+We request you to publicize this opportunity among your student community. Attached herewith the award posters and rules which you may kindly display for the information of your students.
+
+
+Important Dates:
+
+·         Abstract Submission: 5th March 2016
+
+·         First Round Screening: 12th March 2016
+
+·         Final Presentation: 2nd April 2016",
+	  "author" : "Gisha",
+      "type" : "Zip(Two Pdfs )",
+      "subject" : "misc",
+      "date" : "17th February 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/CSIInApp.zip"
+   },{
       "name":"8085 Architecture",
       "description":"",
 	  "author" : "Gisha",
-      "type" : "ppt",
+      "type" : "PowerPoint",
       "subject" : "mps",
-      "date" : "Nil",
+      "date" : "12th February 2016",
       "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/8085%20Architecture.pptx"
    },{
       "name":"Astable Multivibrator",
       "description":" ",
 	  "author" : "Rinju",
-      "type" : "pdf",
+      "type" : "Pdf",
       "subject" : "scslab",
-      "date" : "Nil",
+      "date" : "15th February 2016",
       "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/astable.pdf"
    },{
       "name":"Profile Template",
       "description":"Profile Template for Talent Club",
 	  "author" : "Sminu",
-      "type" : "doc",
+      "type" : "Word Document",
       "subject" : "misc",
-      "date" : "Nil",
+      "date" : "15th February 2016",
       "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/Profile_Template.doc"
    },
    {
       "name":"RC Amplifier",
       "description":"",
 	  "author" : "Subeena",
-      "type" : "doc",
+      "type" : "Word Document",
       "subject" : "scslab",
-      "date" : "Nil",
+      "date" : "10th February 2016",
       "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/RC%20Amplifier.docx"
    }
 ]
