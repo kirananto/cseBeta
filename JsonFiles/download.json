@@ -20,7 +20,7 @@ Important Dates:
 ·         First Round Screening: 12th March 2016
 
 ·         Final Presentation: 2nd April 2016",
-	  "author" : "Gisha",
+	  "author" : "Shimmi Asokan",
       "type" : "Zip(Two Pdfs )",
       "subject" : "misc",
       "date" : "17th February 2016",
@@ -28,23 +28,23 @@ Important Dates:
    },{
       "name":"8085 Architecture",
       "description":"",
-	  "author" : "Gisha",
+	  "author" : "Jisha Mary Jose",
       "type" : "PowerPoint",
       "subject" : "mps",
       "date" : "12th February 2016",
       "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/8085%20Architecture.pptx"
    },{
       "name":"Astable Multivibrator",
-      "description":" ",
-	  "author" : "Rinju",
+      "description":" LAB Second Experiment ",
+	  "author" : "Rinju Mariam Rolly",
       "type" : "Pdf",
       "subject" : "scslab",
       "date" : "15th February 2016",
       "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/astable.pdf"
    },{
       "name":"Profile Template",
-      "description":"Profile Template for Talent Club",
-	  "author" : "Sminu",
+      "description":"The profile template to create your profile is attached herewith.Those who are interested to showcase your technical talents,please submit the hard copy of  your profile on or before 19/02/2016 to the faculty in-charge.",
+	  "author" : "Sminu Izudheen",
       "type" : "Word Document",
       "subject" : "misc",
       "date" : "15th February 2016",
@@ -52,8 +52,8 @@ Important Dates:
    },
    {
       "name":"RC Amplifier",
-      "description":"",
-	  "author" : "Subeena",
+      "description":"LAB First Experiment",
+	  "author" : "Subeena Subair",
       "type" : "Word Document",
       "subject" : "scslab",
       "date" : "10th February 2016",
