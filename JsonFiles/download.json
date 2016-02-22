@@ -34,6 +34,14 @@ Important Dates:
       "date" : "12th February 2016",
       "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/8085%20Architecture.pptx"
    },{
+      "name":"Exp: 3 Mono-stable Multivibrator",
+      "description":"Remember to draw the internal diagram of 555 timer  in your rough record.",
+	  "author" : "Rinju Mariam Rolly",
+      "type" : "Word File",
+      "subject" : "scslab",
+      "date" : "22th February 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/Exp_3Monostable.docx"
+   },{
       "name":"Module 1 Notes",
       "description":"Refer text book,along with this material while studying",
 	  "author" : "Gopika S",
