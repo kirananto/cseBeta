@@ -34,6 +34,14 @@ Important Dates:
       "date" : "12th February 2016",
       "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/8085%20Architecture.pptx"
    },{
+      "name":"Module 1 Notes",
+      "description":"Refer text book,along with this material while studying",
+	  "author" : "Gopika S",
+      "type" : "PowerPoint",
+      "subject" : "oop",
+      "date" : "22th February 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/OOP_MODULE1.pptx"
+   },{
       "name":"Astable Multivibrator",
       "description":" LAB Second Experiment ",
 	  "author" : "Rinju Mariam Rolly",
