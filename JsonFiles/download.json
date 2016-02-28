@@ -1,5 +1,69 @@
 [
   {
+      "name":"Syllabus and Handbook",
+      "description":"S4 Syllabus and Handbook",
+	  "author" : "S4Beta",
+      "type" : "Pdf",
+      "subject" : "mps" ,
+      "date" : "27th February 2016",
+      "download":"http://www.rajagiritech.ac.in/Home/CSE/pdf/S4CSEHand-out.pdf"
+   },{
+      "name":"Syllabus and Handbook",
+      "description":"S4 Syllabus and Handbook",
+	  "author" : "S4Beta",
+      "type" : "Pdf",
+      "subject" : "oop" ,
+      "date" : "27th February 2016",
+      "download":"http://www.rajagiritech.ac.in/Home/CSE/pdf/S4CSEHand-out.pdf"
+   },{
+      "name":"Syllabus and Handbook",
+      "description":"S4 Syllabus and Handbook",
+	  "author" : "S4Beta",
+      "type" : "Pdf",
+      "subject" : "scs" ,
+      "date" : "27th February 2016",
+      "download":"http://www.rajagiritech.ac.in/Home/CSE/pdf/S4CSEHand-out.pdf"
+   },{
+      "name":"Syllabus and Handbook",
+      "description":"S4 Syllabus and Handbook",
+	  "author" : "S4Beta",
+      "type" : "Pdf",
+      "subject" : "scslab" ,
+      "date" : "27th February 2016",
+      "download":"http://www.rajagiritech.ac.in/Home/CSE/pdf/S4CSEHand-out.pdf"
+   },{
+      "name":"Syllabus and Handbook",
+      "description":"S4 Syllabus and Handbook",
+	  "author" : "S4Beta",
+      "type" : "Pdf",
+      "subject" : "dsa" ,
+      "date" : "27th February 2016",
+      "download":"http://www.rajagiritech.ac.in/Home/CSE/pdf/S4CSEHand-out.pdf"
+   },{
+      "name":"Syllabus and Handbook",
+      "description":"S4 Syllabus and Handbook",
+	  "author" : "S4Beta",
+      "type" : "Pdf",
+      "subject" : "mat" ,
+      "date" : "27th February 2016",
+      "download":"http://www.rajagiritech.ac.in/Home/CSE/pdf/S4CSEHand-out.pdf"
+   },{
+      "name":"Syllabus and Handbook",
+      "description":"S4 Syllabus and Handbook",
+	  "author" : "S4Beta",
+      "type" : "Pdf",
+      "subject" : "toc" ,
+      "date" : "27th February 2016",
+      "download":"http://www.rajagiritech.ac.in/Home/CSE/pdf/S4CSEHand-out.pdf"
+   },{
+      "name":"Syllabus and Handbook",
+      "description":"S4 Syllabus and Handbook",
+	  "author" : "S4Beta",
+      "type" : "Pdf",
+      "subject" : "dsalab" ,
+      "date" : "27th February 2016",
+      "download":"http://www.rajagiritech.ac.in/Home/CSE/pdf/S4CSEHand-out.pdf"
+   },{
       "name":"CSI – InApp Award for the best student software project",
       "description":"It gives us immense pleasure in announcing the national level 5th CSI-InApp Award competition for the best Software Application developed by B.Tech/MCA/MSc(Computer Science) Students in the country.
 
