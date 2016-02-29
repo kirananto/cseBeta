@@ -1,5 +1,13 @@
 [
   {
+      "name":"Expt. No-4 RC Phase Shift Oscillator",
+      "description":"Please find the attachment. Do remember to draw the internal diagram of 555 timer in your rough record.",
+	  "author" : "Rinju & Subeena",
+      "type" : "Word Document",
+      "subject" : "scslab" ,
+      "date" : "28th February 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/Expt_4_RC_Oscillator.docx"
+   },{
       "name":"Syllabus and Handbook",
       "description":"S4 Syllabus and Handbook",
 	  "author" : "S4Beta",
