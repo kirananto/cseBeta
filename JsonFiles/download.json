@@ -1,5 +1,21 @@
 [
   {
+      "name":"Expt. No-5 Amplitude Modulation",
+      "description":"",
+	  "author" : "Rinju & Subeena",
+      "type" : "Word Document",
+      "subject" : "scslab" ,
+      "date" : "5th March 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/Amplitude.Modulation.docx"
+   },{
+      "name":"Module 2",
+      "description":"",
+	  "author" : "Gopika S",
+      "type" : "PowerPoint",
+      "subject" : "oop" ,
+      "date" : "5th March 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/Module.2.OOP.pptx"
+   },{
       "name":"Expt. No-4 RC Phase Shift Oscillator",
       "description":"Please find the attachment. Do remember to draw the internal diagram of 555 timer in your rough record.",
 	  "author" : "Rinju & Subeena",
