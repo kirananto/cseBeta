@@ -1,5 +1,13 @@
 [
   {
+      "name":"Notes Till Instructions complete",
+      "description":"",
+	  "author" : "Shaheen",
+      "type" : "Pdf",
+      "subject" : "mps" ,
+      "date" : "11th March 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/f1b082fe72e9b56a1144a1a034fac31adb700fd9/Downloads/MPS.pdf"
+   },{
       "name":"Equivalence of NFA DFA",
       "description":"",
 	  "author" : "Nil",
