@@ -1,5 +1,29 @@
 [
   {
+      "name":"Equivalence of NFA DFA",
+      "description":"",
+	  "author" : "Nil",
+      "type" : "Word Document",
+      "subject" : "toc" ,
+      "date" : "10th March 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/f1b082fe72e9b56a1144a1a034fac31adb700fd9/Downloads/Equivalence%20of%20NFA%20DFA.docx"
+   },{
+      "name":"Fourier Series Part 2",
+      "description":"",
+	  "author" : "Nil",
+      "type" : "Pdf",
+      "subject" : "maths" ,
+      "date" : "10th March 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/f1b082fe72e9b56a1144a1a034fac31adb700fd9/Downloads/FourierSeries.pdf"
+   },{
+      "name":"Fourier Series Part 1",
+      "description":"",
+	  "author" : "Nil",
+      "type" : "Pdf",
+      "subject" : "maths" ,
+      "date" : "10th March 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/f1b082fe72e9b56a1144a1a034fac31adb700fd9/Downloads/fourier-series.pdf"
+   },{
       "name":"Expt. No-5 Amplitude Modulation",
       "description":"",
 	  "author" : "Rinju & Subeena",
