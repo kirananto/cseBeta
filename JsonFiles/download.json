@@ -1,11 +1,99 @@
 [
   {
+      "name":"Module 1 Pdf",
+      "description":"",
+	  "author" : "nil",
+      "type" : "Pdf",
+      "subject" : "toc" ,
+      "date" : "10th March 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/TOC%20Module%201.pdf"
+   },{
+      "name":"Module 2 Pdf",
+      "description":"",
+	  "author" : "nil",
+      "type" : "Pdf",
+      "subject" : "toc" ,
+      "date" : "10th March 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/TOC%20Module%202.pdf"
+   },{
+      "name":"Module 3 Pdf",
+      "description":"",
+	  "author" : "nil",
+      "type" : "Pdf",
+      "subject" : "toc" ,
+      "date" : "10th March 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/TOC%20Module%203.pdf"
+   },{
+      "name":"Module 4 Pdf",
+      "description":"",
+	  "author" : "nil",
+      "type" : "Pdf",
+      "subject" : "toc" ,
+      "date" : "10th March 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/TOC%20Module%204.pdf"
+   },{
+      "name":"Module 5 Pdf",
+      "description":"",
+	  "author" : "nil",
+      "type" : "Pdf",
+      "subject" : "toc" ,
+      "date" : "10th March 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/TOC%20Module%205.pdf"
+   },{
+      "name":"Module 4 Pdf",
+      "description":"",
+	  "author" : "nil",
+      "type" : "Pdf",
+      "subject" : "oop" ,
+      "date" : "10th March 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/Module%204%20c%2B%2B.pdf"
+   },{
+      "name":"Module 3 Pdf",
+      "description":"",
+	  "author" : "nil",
+      "type" : "Pdf",
+      "subject" : "oop" ,
+      "date" : "10th March 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/Module%203%20c%2B%2B.pdf"
+   },{
+      "name":"Module 2 Pdf",
+      "description":"",
+	  "author" : "nil",
+      "type" : "Pdf",
+      "subject" : "oop" ,
+      "date" : "10th March 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/Module%202%20c%2B%2B.pdf"
+   },{
+      "name":"Module 1 Pdf",
+      "description":"",
+	  "author" : "nil",
+      "type" : "Pdf",
+      "subject" : "oop" ,
+      "date" : "10th March 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/Module%201%20c%2B%2B.pdf"
+   },{
+      "name":" MODEL QUESTION PAPER - TOC",
+      "description":"",
+	  "author" : "nil",
+      "type" : "Pdf",
+      "subject" : "qp" ,
+      "date" : "10th March 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/Model%20Questions_TOC.pdf"
+   },{
+      "name":"KLP Mishra, N. Chandrasekaran - Theory of Computer Science _ Automata, Languages and Computation",
+      "description":"Text Book",
+	  "author" : "KLP Mishra",
+      "type" : "Pdf",
+      "subject" : "toc" ,
+      "date" : "10th March 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/KLP%20Mishra%2C%20N.%20Chandrasekaran%20-%20Theory%20of%20Computer%20Science%20_%20Automata%2C%20Languages%20and%20Computation.pdf"
+   },{
       "name":"Notes Till Instructions complete",
       "description":"",
 	  "author" : "Shaheen",
       "type" : "Pdf",
       "subject" : "mps" ,
-      "date" : "11th March 2016",
+      "date" : "10th March 2016",
       "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/MPS.pdf"
    },{
       "name":"Equivalence of NFA DFA",
