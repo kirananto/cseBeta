@@ -1,5 +1,13 @@
 [
   {
+      "name":"Maths Assignment Questions",
+      "description":"Fourier Series",
+	  "author" : "Neil",
+      "type" : "Jpg",
+      "subject" : "mat" ,
+      "date" : "12th March 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/gQeShJKPB1tNSAMVSDSAABgW.jpg"
+   },{
       "name":"Module 1 Pdf",
       "description":"St. Joseph’s College of Engineering & Technology Palai",
 	  "author" : "Neil",
