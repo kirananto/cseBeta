@@ -1,5 +1,21 @@
 [
   {
+      "name":"SCS Question Papers",
+      "description":"2014 Question Paper",
+	  "author" : "MGU ",
+      "type" : "Pdf",
+      "subject" : "qp" ,
+      "date" : "14th March 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/SCS/questionpaper_uni_2014.pdf"
+   },{
+      "name":"SCS Question Papers",
+      "description":"2013 Question Paper",
+	  "author" : "MGU ",
+      "type" : "Pdf",
+      "subject" : "qp" ,
+      "date" : "14th March 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/SCS/questionpaper_uni_2013.pdf"
+   },{
       "name":"DSA Question Papers",
       "description":"2012 Question Paper",
 	  "author" : "MGU ",
