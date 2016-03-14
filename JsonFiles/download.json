@@ -1,5 +1,29 @@
 [
   {
+      "name":"Module 1- PPT",
+      "description":"This is only for reference and not for the purpose of studying or for exam prepration.",
+	  "author" : "Subeena Subair ",
+      "type" : "Pdf",
+      "subject" : "scs" ,
+      "date" : "14th March 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/SCS/Module%201.pdf"
+   },{
+      "name":"Probability Distribution ",
+      "description":"NP BALI TEXT",
+	  "author" : "N.P.Bali",
+      "type" : "Pdf",
+      "subject" : "maths" ,
+      "date" : "14th March 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/MATHS/Probability%20Distribution.pdf"
+   },{
+      "name":"Fourier Series ",
+      "description":"NP BALI TEXT",
+	  "author" : "N.P.Bali",
+      "type" : "Pdf",
+      "subject" : "maths" ,
+      "date" : "14th March 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/MATHS/Fourier%20Series.pdf"
+   },{
       "name":"Maths Assignment Questions",
       "description":"Fourier Series",
 	  "author" : "Neil",
