@@ -6,7 +6,7 @@
       "type" : "Jpg",
       "subject" : "maths" ,
       "date" : "12th March 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/gQeShJKPB1tNSAMVSDSAABgW.jpg"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/MATHS/gQeShJKPB1tNSAMVSDSAABgW.jpg"
    },{
       "name":"Module 1 Pdf",
       "description":"St. Joseph’s College of Engineering & Technology Palai",
@@ -14,7 +14,7 @@
       "type" : "Pdf",
       "subject" : "toc" ,
       "date" : "12th March 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/toc_module1.pdf"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/TOC/toc_module1.pdf"
    },{
       "name":"Module 2 Pdf",
       "description":"St. Joseph’s College of Engineering & Technology Palai",
@@ -22,7 +22,7 @@
       "type" : "Pdf",
       "subject" : "toc" ,
       "date" : "12th March 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/toc_module2.pdf"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/TOC/toc_module2.pdf"
    },{
       "name":"Module 1 Pdf",
       "description":"",
@@ -30,7 +30,7 @@
       "type" : "Pdf",
       "subject" : "toc" ,
       "date" : "10th March 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/TOC%20Module%201.pdf"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/TOC/TOC%20Module%201.pdf"
    },{
       "name":"Module 2 Pdf",
       "description":"",
@@ -38,7 +38,7 @@
       "type" : "Pdf",
       "subject" : "toc" ,
       "date" : "10th March 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/TOC%20Module%202.pdf"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/TOC/TOC%20Module%202.pdf"
    },{
       "name":"Module 3 Pdf",
       "description":"",
@@ -46,7 +46,7 @@
       "type" : "Pdf",
       "subject" : "toc" ,
       "date" : "10th March 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/TOC%20Module%203.pdf"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/TOC/TOC%20Module%203.pdf"
    },{
       "name":"Module 4 Pdf",
       "description":"",
@@ -54,7 +54,7 @@
       "type" : "Pdf",
       "subject" : "toc" ,
       "date" : "10th March 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/TOC%20Module%204.pdf"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/TOC/TOC%20Module%204.pdf"
    },{
       "name":"Module 5 Pdf",
       "description":"",
@@ -62,7 +62,7 @@
       "type" : "Pdf",
       "subject" : "toc" ,
       "date" : "10th March 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/TOC%20Module%205.pdf"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/TOC/TOC%20Module%205.pdf"
    },{
       "name":"Module 4 Pdf",
       "description":"",
@@ -70,7 +70,7 @@
       "type" : "Pdf",
       "subject" : "oop" ,
       "date" : "10th March 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/Module%204%20c%2B%2B.pdf"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/OOP/Module%204%20c%2B%2B.pdf"
    },{
       "name":"Module 3 Pdf",
       "description":"",
@@ -78,7 +78,7 @@
       "type" : "Pdf",
       "subject" : "oop" ,
       "date" : "10th March 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/Module%203%20c%2B%2B.pdf"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/OOP/Module%203%20c%2B%2B.pdf"
    },{
       "name":"Module 2 Pdf",
       "description":"",
@@ -86,7 +86,7 @@
       "type" : "Pdf",
       "subject" : "oop" ,
       "date" : "10th March 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/Module%202%20c%2B%2B.pdf"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/OOP/Module%202%20c%2B%2B.pdf"
    },{
       "name":"Module 1 Pdf",
       "description":"",
@@ -94,7 +94,7 @@
       "type" : "Pdf",
       "subject" : "oop" ,
       "date" : "10th March 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/Module%201%20c%2B%2B.pdf"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/OOP/Module%201%20c%2B%2B.pdf"
    },{
       "name":" MODEL QUESTION PAPER - TOC",
       "description":"",
@@ -102,7 +102,7 @@
       "type" : "Pdf",
       "subject" : "qp" ,
       "date" : "10th March 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/Model%20Questions_TOC.pdf"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/TOC/Model%20Questions_TOC.pdf"
    },{
       "name":"KLP Mishra, N. Chandrasekaran - Theory of Computer Science _ Automata, Languages and Computation",
       "description":"Text Book",
@@ -110,7 +110,7 @@
       "type" : "Pdf",
       "subject" : "toc" ,
       "date" : "10th March 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/KLP%20Mishra%2C%20N.%20Chandrasekaran%20-%20Theory%20of%20Computer%20Science%20_%20Automata%2C%20Languages%20and%20Computation.pdf"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/TOC/KLP%20Mishra%2C%20N.%20Chandrasekaran%20-%20Theory%20of%20Computer%20Science%20_%20Automata%2C%20Languages%20and%20Computation.pdf"
    },{
       "name":"Notes Till Instructions complete",
       "description":"",
@@ -118,7 +118,7 @@
       "type" : "Pdf",
       "subject" : "mps" ,
       "date" : "10th March 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/MPS.pdf"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/MPS/MPS.pdf"
    },{
       "name":"Equivalence of NFA DFA",
       "description":"",
@@ -126,7 +126,7 @@
       "type" : "Word Document",
       "subject" : "toc" ,
       "date" : "10th March 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/f1b082fe72e9b56a1144a1a034fac31adb700fd9/Downloads/Equivalence%20of%20NFA%20DFA.docx"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/TOC/Equivalence%20of%20NFA%20DFA.docx"
    },{
       "name":"Fourier Series Part 2",
       "description":"",
@@ -134,7 +134,7 @@
       "type" : "Pdf",
       "subject" : "maths" ,
       "date" : "10th March 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/f1b082fe72e9b56a1144a1a034fac31adb700fd9/Downloads/FourierSeries.pdf"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/MATHS/FourierSeries.pdf"
    },{
       "name":"Fourier Series Part 1",
       "description":"",
@@ -142,7 +142,7 @@
       "type" : "Pdf",
       "subject" : "maths" ,
       "date" : "10th March 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/f1b082fe72e9b56a1144a1a034fac31adb700fd9/Downloads/fourier-series.pdf"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/MATHS/fourier-series.pdf"
    },{
       "name":"Expt. No-5 Amplitude Modulation",
       "description":"",
@@ -150,7 +150,7 @@
       "type" : "Word Document",
       "subject" : "scslab" ,
       "date" : "5th March 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/Amplitude.Modulation.docx"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/ECLAB/Amplitude.Modulation.docx"
    },{
       "name":"Module 2",
       "description":"",
@@ -158,7 +158,7 @@
       "type" : "PowerPoint",
       "subject" : "oop" ,
       "date" : "5th March 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/Module.2.OOP.pptx"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/OOP/Module.2.OOP.pptx"
    },{
       "name":"Expt. No-4 RC Phase Shift Oscillator",
       "description":"Please find the attachment. Do remember to draw the internal diagram of 555 timer in your rough record.",
@@ -166,7 +166,7 @@
       "type" : "Word Document",
       "subject" : "scslab" ,
       "date" : "28th February 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/Expt_4_RC_Oscillator.docx"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/ECLAB/Expt_4_RC_Oscillator.docx"
    },{
       "name":"Syllabus",
       "description":"S4 Syllabus ",
@@ -174,7 +174,7 @@
       "type" : "Pdf",
       "subject" : "maths" ,
       "date" : "10th March 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/mathssylabus.pdf"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/MATHS/mathssylabus.pdf"
    },{
       "name":"Syllabus",
       "description":"S4 Syllabus ",
@@ -182,7 +182,7 @@
       "type" : "Pdf",
       "subject" : "oop" ,
       "date" : "10th March 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/oopsylabus.pdf"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/OOP/oopsylabus.pdf"
    },{
       "name":"Syllabus",
       "description":"S4 Syllabus ",
@@ -190,7 +190,7 @@
       "type" : "Pdf",
       "subject" : "mps" ,
       "date" : "10th March 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/mpssylabus.pdf"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/MPS/mpssylabus.pdf"
    },{
       "name":"Syllabus",
       "description":"S4 Syllabus ",
@@ -198,7 +198,7 @@
       "type" : "Pdf",
       "subject" : "dsa" ,
       "date" : "10th March 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/dsasylabus.pdf"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/DSA/dsasylabus.pdf"
    },{
       "name":"Syllabus",
       "description":"S4 Syllabus ",
@@ -206,7 +206,7 @@
       "type" : "Pdf",
       "subject" : "scs" ,
       "date" : "10th March 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/scssylabs.pdf"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/SCS/scssylabs.pdf"
    },{
       "name":"Syllabus",
       "description":"S4 Syllabus ",
@@ -214,7 +214,7 @@
       "type" : "Pdf",
       "subject" : "toc" ,
       "date" : "10th March 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/tocsylabus.pdf"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/TOC/tocsylabus.pdf"
    },{
       "name":"Syllabus and Handbook",
       "description":"S4 Syllabus and Handbook",
@@ -256,7 +256,7 @@ Important Dates:
       "type" : "Zip(Two Pdfs )",
       "subject" : "misc",
       "date" : "17th February 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/CSIInApp.zip"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/MISC/CSIInApp.zip"
    },{
       "name":"8085 Architecture",
       "description":"",
@@ -264,7 +264,7 @@ Important Dates:
       "type" : "PowerPoint",
       "subject" : "mps",
       "date" : "12th February 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/8085%20Architecture.pptx"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/MPS/8085%20Architecture.pptx"
    },{
       "name":"Exp: 3 Mono-stable Multivibrator",
       "description":"Remember to draw the internal diagram of 555 timer  in your rough record.",
@@ -272,7 +272,7 @@ Important Dates:
       "type" : "Word File",
       "subject" : "scslab",
       "date" : "22th February 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/Exp_3Monostable.docx"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/ECLAB/Exp_3Monostable.docx"
    },{
       "name":"Module 1 Notes",
       "description":"Refer text book,along with this material while studying",
@@ -280,7 +280,7 @@ Important Dates:
       "type" : "PowerPoint",
       "subject" : "oop",
       "date" : "22th February 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/OOP_MODULE1.pptx"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/OOP/OOP_MODULE1.pptx"
    },{
       "name":"Astable Multivibrator",
       "description":" LAB Second Experiment ",
@@ -288,7 +288,7 @@ Important Dates:
       "type" : "Pdf",
       "subject" : "scslab",
       "date" : "15th February 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/astable.pdf"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/ECLAB/astable.pdf"
    },{
       "name":"Profile Template",
       "description":"The profile template to create your profile is attached herewith.Those who are interested to showcase your technical talents,please submit the hard copy of  your profile on or before 19/02/2016 to the faculty in-charge.",
@@ -296,7 +296,7 @@ Important Dates:
       "type" : "Word Document",
       "subject" : "misc",
       "date" : "15th February 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/Profile_Template.doc"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/MISC/Profile_Template.doc"
    },
    {
       "name":"RC Amplifier",
@@ -305,6 +305,6 @@ Important Dates:
       "type" : "Word Document",
       "subject" : "scslab",
       "date" : "10th February 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/RC%20Amplifier.docx"
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/ECLAB/RC%20Amplifier.docx"
    }
 ]
