@@ -1,5 +1,21 @@
 [
   {
+      "name":"DSA Question Papers",
+      "description":"2012 Question Paper",
+	  "author" : "MGU ",
+      "type" : "Pdf",
+      "subject" : "qp" ,
+      "date" : "14th March 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/DSA/Question_paper.pdf"
+   },{
+      "name":"S.Haykin and B. V. Veen, Signals and Systems",
+      "description":"Prescribed Text Book",
+	  "author" : "Haykin ",
+      "type" : "Pdf",
+      "subject" : "scs" ,
+      "date" : "14th March 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/SCS/Signals_and_Systems.pdf"
+   },{
       "name":"Module 1- PPT",
       "description":"This is only for reference and not for the purpose of studying or for exam prepration.",
 	  "author" : "Subeena Subair ",
@@ -28,7 +44,7 @@
       "description":"Fourier Series",
 	  "author" : "Neil",
       "type" : "Jpg",
-      "subject" : "maths" ,
+      "subject" : "qp" ,
       "date" : "12th March 2016",
       "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/MATHS/gQeShJKPB1tNSAMVSDSAABgW.jpg"
    },{
