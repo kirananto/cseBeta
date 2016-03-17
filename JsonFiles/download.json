@@ -1,5 +1,21 @@
 [
   {
+      "name":"Expt 6 Pulse Amplitude Modulation",
+      "description":" ",
+	  "author" : "Rinju & Subeena",
+      "type" : "Word Document",
+      "subject" : "scslab" ,
+      "date" : "17th March 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/ECLAB/Expt_No_6.docx"
+   },{
+      "name":"Module 2 : Timing Diagram",
+      "description":" Contains all modules in s4",
+	  "author" : "Jisha Mary Jose",
+      "type" : "Power Point Presentation",
+      "subject" : "mps" ,
+      "date" : "17th March 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/MPS/MP2.pptx"
+   },{
       "name":"Full Notes 1-5 Modules",
       "description":" Contains all modules in s4",
 	  "author" : "Kiran Anto",
