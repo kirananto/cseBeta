@@ -1,5 +1,13 @@
 [
   {
+      "name":"Expt_No_7 PWM",
+      "description":" ",
+	 "author" : "Rinju & Subeena",
+      "type" : "Word Document",
+      "subject" : "scslab" ,
+      "date" : "28th March 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/ECLAB/Expt_No_7.docx"
+   },{
       "name":"OOP module 3",
       "description":" ",
 	  "author" : "Gopika S",
