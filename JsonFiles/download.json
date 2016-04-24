@@ -1,5 +1,21 @@
 [
   {
+      "name":"Model Lab Exam Time Table",
+      "description":"Time table for model lab exam ",
+	 "author" : "Rinju & Subeena",
+      "type" : "Word Document",
+      "subject" : "scslab" ,
+      "date" : "24th April 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/ECLAB/Time%20Table%20S4CS%20A-B.docx"
+   },{
+      "name":"VIVA QUESTION BANK",
+      "description":"Please go through these sample questions ",
+	 "author" : "Rinju & Subeena",
+      "type" : "Word Document",
+      "subject" : "scslab" ,
+      "date" : "24th April 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/ECLAB/VIVA%20QUESTION%20BANK.docx"
+   },{
       "name":"Notes of Module 4",
       "description":" ",
 	 "author" : "Gopika S",
