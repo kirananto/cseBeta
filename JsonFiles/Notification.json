@@ -1,5 +1,16 @@
 [
    {
+      "title":" DSA Assignment",
+      "content":"
+1. Compare 8155 chip and 8255 chip with suitable diagrams.
+2. Explain the architecture and pin diagram of USART 8251.
+3. Write a short note on 3 different latest processors.
+
+
+You can submit a printed version of the assignment.
+Last date: 29-04-2016 (Friday)",
+	  "date" : "25th April 2016"
+   }, {
       "title":" LAB EXAMS ECLAB - on 24th April",
       "content":" For further details and timetable check the downloads of the LAB.",
 	  "date" : "24th April 2016"
