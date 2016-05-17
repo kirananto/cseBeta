@@ -1,5 +1,45 @@
 [
   {
+      "name":"Module 1",
+      "description":"",
+    "author" : "Abhinav",
+      "type" : "PDF",
+      "subject" : "toc" ,
+      "date" : "17th May 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/TOC/tocmod1_-_nutlearners.blogspot.com.pdf"
+   },{
+      "name":"Module 2",
+      "description":"",
+    "author" : "Abhinav",
+      "type" : "PDF",
+      "subject" : "toc" ,
+      "date" : "17th May 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/TOC/tocmod2_-_nutlearners.blogspot.com.pdf"
+   },{
+      "name":"Module 3",
+      "description":"",
+    "author" : "Abhinav",
+      "type" : "PDF",
+      "subject" : "toc" ,
+      "date" : "17th May 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/TOC/tocmod3_-_nutlearners.blogspot.com.pdf"
+   },{
+      "name":"Module 4",
+      "description":"",
+    "author" : "Abhinav",
+      "type" : "PDF",
+      "subject" : "toc" ,
+      "date" : "17th May 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/TOC/tocmod4_-_nutlearners-1.blogspot.com.pdf"
+   },{
+      "name":"Module 5",
+      "description":"",
+    "author" : "Abhinav",
+      "type" : "PDF",
+      "subject" : "toc" ,
+      "date" : "17th May 2016",
+      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/TOC/tocmod5_-_nutlearners.blogspot.com.pdf"
+   },{
       "name":"Module 5",
       "description":"",
     "author" : "Gopika S",
@@ -223,22 +263,6 @@
       "subject" : "qp" ,
       "date" : "12th March 2016",
       "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/MATHS/gQeShJKPB1tNSAMVSDSAABgW.jpg"
-   },{
-      "name":"Module 1 Pdf",
-      "description":"St. Joseph’s College of Engineering & Technology Palai",
-	  "author" : "Neil",
-      "type" : "Pdf",
-      "subject" : "toc" ,
-      "date" : "12th March 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/TOC/toc_module1.pdf"
-   },{
-      "name":"Module 2 Pdf",
-      "description":"St. Joseph’s College of Engineering & Technology Palai",
-	  "author" : "Neil",
-      "type" : "Pdf",
-      "subject" : "toc" ,
-      "date" : "12th March 2016",
-      "download":"https://github.com/kirananto/cseBeta/raw/master/Downloads/TOC/toc_module2.pdf"
    },{
       "name":"Module 1 Pdf",
       "description":"",
